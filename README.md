@@ -14,7 +14,7 @@ Similar to `mqtt_connect.py`, but simulates a simpler fake sensor.
 - Publishes less metadata, focuses on temperature simulation.
 
 ### 3. mqtt_attack.py
-Simulates malicious MQTT traffic used for triggering Suricata rules.
+- Simulates malicious MQTT traffic used for triggering Suricata rules.
 
 ## 🧪 Project Context
 
