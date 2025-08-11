@@ -1,6 +1,6 @@
-# CYT160 Final Project – IoT Security Monitoring via MQTT
+# IoT Security Threat Detection using Raspberry Pi, Suricata, and ELK on AWS
 
-This repository contains Python scripts used in the CYT160 final project, which focuses on simulating and analyzing IoT MQTT traffic using a Raspberry Pi and an AWS-hosted security pipeline (Mosquitto, Suricata, Filebeat, Elasticsearch, Kibana).
+This repository contains Python scripts, which focuses on simulating and analyzing IoT MQTT traffic using a Raspberry Pi and an AWS-hosted security pipeline (Mosquitto, Suricata, Filebeat, Elasticsearch, Kibana).
 
 ## 🔧 Scripts
 
